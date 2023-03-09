@@ -1,0 +1,7 @@
+Download Flex & Bison before to execute the next command.
+
+In terminal write:
+flex myLexicAnalyzer.l 
+
+
+will create automatically a file name lex.yy.c
